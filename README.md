@@ -1,4 +1,4 @@
-# Perpetual-Calendar 
+# Perpetual Calendar 
 ## About
 A 4x3 calendar console application.
 Displays the annual calendar for the input year (requires 1920x1080+ resolution and maximized window).
